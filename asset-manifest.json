@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.9de195a4.chunk.css",
+    "main.js": "/portfolio/static/js/main.b51d3e03.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.b51d3e03.chunk.js.map",
+    "runtime~main.js": "/portfolio/static/js/runtime~main.bb9c7cad.js",
+    "runtime~main.js.map": "/portfolio/static/js/runtime~main.bb9c7cad.js.map",
+    "static/css/2.fe520fb9.chunk.css": "/portfolio/static/css/2.fe520fb9.chunk.css",
+    "static/js/2.c0d2f460.chunk.js": "/portfolio/static/js/2.c0d2f460.chunk.js",
+    "static/js/2.c0d2f460.chunk.js.map": "/portfolio/static/js/2.c0d2f460.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.b55491985c51b21ced3a0dd6817ea90a.js": "/portfolio/precache-manifest.b55491985c51b21ced3a0dd6817ea90a.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/2.fe520fb9.chunk.css.map": "/portfolio/static/css/2.fe520fb9.chunk.css.map",
+    "static/css/main.9de195a4.chunk.css.map": "/portfolio/static/css/main.9de195a4.chunk.css.map",
+    "static/media/index.css": "/portfolio/static/media/HelveticaNeueLight.212707c7.woff"
+  }
+}
