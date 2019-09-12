@@ -2,7 +2,7 @@
   "name": "personal-website",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://nikkiwu.github.io/portfolio",
+  "homepage": "https://nikkiwu.github.io/",
   "dependencies": {
     "bootstrap": "^4.3.1",
     "node-sass": "^4.12.0",
