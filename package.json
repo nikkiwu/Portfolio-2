@@ -2,7 +2,7 @@
   "name": "personal-website",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://nikkiwu.github.io/",
+  "homepage": "https://nikkiwu.github.io/portfolio",
   "dependencies": {
     "bootstrap": "^4.3.1",
     "node-sass": "^4.12.0",
@@ -13,7 +13,7 @@
     "react-scripts": "3.1.1"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "start": "port=3000/portfolio react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "predeploy": "npm run build",
