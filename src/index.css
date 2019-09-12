@@ -1,0 +1,24 @@
+@font-face {
+    font-family: "Helvetica Neue Bold";
+    src: url('assets/fonts/helvetica-neue-5-cufonfonts-webfont/HelveticaNeueBold.woff');
+}
+
+@font-face {
+    font-family: 'Helvetica Neue Light';
+    src: url("assets/fonts/helvetica-neue-5-cufonfonts-webfont/HelveticaNeueLight.woff");
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+body {
+    height: 100vh;
+    background: rgb(236, 234, 217);
+    margin: 0;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+

@@ -1,0 +1,92 @@
+.home-container {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    flex-flow: column nowrap;
+    margin-top: 3rem;
+}
+
+.home-text {
+    font-family: "Helvetica Neue Light", sans-serif;
+    margin: 1rem 0 0 0.7rem;
+    font-weight: lighter;
+    font-style: italic;
+    text-align: left;
+    font-size: 1.4rem;
+}
+
+.home-header, .aboutme-header, .project-header {
+    font-family: "Helvetica Neue Bold", sans-serif;
+    font-size: 2rem;
+    margin-left: .7rem;
+    font-weight: bolder;
+    font-style: normal;
+    border: none;
+    background-color: rgba(255, 102, 0, 0.63);
+}
+
+
+hr {
+    height: 0.1rem;
+    border: none;
+    background-color: black;
+    width: 10rem;
+    margin-left: .7rem;
+    margin-top: 1rem;
+
+}
+
+/*About Home*/
+
+
+.aboutme-header {
+    margin-top: 2rem;
+}
+
+.aboutme-header a:hover {
+    transition: 500ms ease-in;
+    text-decoration: none;
+    color: white;
+}
+
+.about-container, .project-container {
+    display: flex;
+    align-items: flex-start;
+    flex-flow: column nowrap;
+}
+
+.about-container button {
+    padding: 0.5rem;
+    border: none;
+    margin: 4rem 0 4rem 0.7rem;
+    font-size: 1rem;
+    font-weight: normal;
+    background: rgba(255, 0, 5, 0.71);
+    transition: 500ms ease-in;
+}
+
+.about-container button:hover {
+    background: none;
+    color: black
+}
+
+.about-container a, .project-container a {
+    color: black;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+/*Project Home*/
+
+
+/*.project*/
+.project-container{
+    width: 100vw;
+}
+
+.project-header{
+    margin-bottom: 2rem;
+}
+
+
+
