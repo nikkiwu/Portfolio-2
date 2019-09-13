@@ -13,7 +13,7 @@
     "react-scripts": "3.1.1"
   },
   "scripts": {
-    "start": "port=3000/portfolio react-scripts start",
+    "start": "port=3000 react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "predeploy": "npm run build",
