@@ -44,14 +44,14 @@ class App extends React.Component {
                 <Container className='p-0' fluid={true}>
                     <Navigation/>
                     <Switch>
-                        <Route path='/portfolio' exact
+                        <Route path='/' exact
                                render={() => <Home title={this.state.home.title} nameText={this.state.home.nameText}
                                                    jobText={this.state.home.jobText}
                                                    locationText={this.state.home.locationText}
                                                    aboutTitle={this.state.about.aboutTitle}
                                                    buttonText={this.state.about.buttonText}
                                                    projectTitle={this.state.project.projectTitle}/>}/>
-                        <Route path='/about' compo nent={About}/>
+                        <Route path='/about' component={About}/>
                         <Route path='/contact' exact component={Contact}/>
                         <Route path='/project' exact component={Project}/>
                     </Switch>
