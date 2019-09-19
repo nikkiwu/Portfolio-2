@@ -1,24 +1,69 @@
 import React from 'react';
 import {Col, Container, Row} from 'react-bootstrap';
+import Image from '../assets/home-page-image.jpg'
 import '../styles/Project.css'
+import {FontAwesomeIcon} from '@fortawesome/react-fontawesome';
+import {faGithub} from '@fortawesome/free-brands-svg-icons';
 
 
-const Project = (props) => {
+const Project = () => {
     return (
 
         <React.Fragment>
             <Container className='justify-content-md-between'>
                 <Row>
-                    <Col className='columns' md={true}>sm=8</Col>
-                    <Col className='columns' md={true}>sm=4</Col>
+                    <Col className='project' md={true}>
+                        <div>
+                            <img className='project-image' src={Image} alt=""/>
+                            <p>
+                                <FontAwesomeIcon className='icon' icon={faGithub}/>
+                            </p>
+                        </div>
+                    </Col>
+                    <Col className='project' md={true}>
+                        <div>
+                            <img className='project-image' src={Image} alt=""/>
+                            <p>
+                                <FontAwesomeIcon className='icon' icon={faGithub}/>
+                            </p>
+                        </div>
+                    </Col>
                 </Row>
                 <Row>
-                    <Col className='columns' md={true}>sm=true</Col>
-                    <Col className='columns' md={true}>sm=true</Col>
+                    <Col className='project' md={true}>
+                        <div>
+                            <img className='project-image' src={Image} alt=""/>
+                            <p>
+                                <FontAwesomeIcon className='icon' icon={faGithub}/>
+                            </p>
+                        </div>
+                    </Col>
+                    <Col className='project' md={true}>
+                        <div>
+                            <img className='project-image' src={Image} alt=""/>
+                            <p>
+                                <FontAwesomeIcon className='icon' icon={faGithub}/>
+                            </p>
+                        </div>
+                    </Col>
                 </Row>
                 <Row>
-                    <Col className='columns' md={true}>sm=true</Col>
-                    <Col className='columns' md={true}>sm=true</Col>
+                    <Col className='project' md={true}>
+                        <div>
+                            <img className='project-image' src={Image} alt=""/>
+                            <p>
+                                <FontAwesomeIcon className='icon' icon={faGithub}/>
+                            </p>
+                        </div>
+                    </Col>
+                    <Col className='project' md={true}>
+                        <div>
+                            <img className='project-image' src={Image} alt=""/>
+                            <p>
+                                <FontAwesomeIcon className='icon' icon={faGithub}/>
+                            </p>
+                        </div>
+                    </Col>
                 </Row>
             </Container>
         </React.Fragment>

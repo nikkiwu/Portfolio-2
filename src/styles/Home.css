@@ -16,6 +16,7 @@
 }
 
 .home-header, .aboutme-header, .project-header {
+    color: black;
     font-family: "Helvetica Neue Bold", sans-serif;
     font-size: 2rem;
     margin-left: .7rem;

@@ -6,13 +6,15 @@
     font-weight: normal;
     border-top: 1px solid black;
     border-bottom: 1px solid black;
-    /*width: 15%;*/
     text-transform: uppercase;
-    /*margin-right: auto;*/
     color: black;
 }
 
-.logo:hover{
+.navbar {
+    padding: 1rem !important;
+}
+
+.logo:hover {
     color: black;
     text-decoration: none;
 }
@@ -29,13 +31,13 @@
 }
 
 
-.nav-link{
+.nav-link {
     color: black !important;
 }
 
 
 @media screen and (max-device-width: 990px) {
-    .nav-links{
+    .nav-links {
         border: none;
     }
 }

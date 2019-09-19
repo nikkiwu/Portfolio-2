@@ -1,6 +1,88 @@
-.columns{
-    border: 1px solid black;
-    background: green;
-    height: 300px;
-    margin: 1rem 1rem;
+/*.container1 {*/
+/*    position: relative;*/
+/*    width: 100%;*/
+/*    margin: 2rem 0;*/
+/*}*/
+
+/*.project-image {*/
+/*    display: block;*/
+/*    width: 100%;*/
+/*    height: auto;*/
+/*    transition: 500ms ease-in-out;*/
+/*}*/
+
+.overlay {
+    /*position: absolute;*/
+    /*z-index: 10;*/
+    /*bottom: 50px;*/
+    position: absolute;
+    bottom: 50px;
+    background-color: #008CBA;
+    overflow: hidden;
+    max-width: 100%;
+    max-height: 50%;
+    transition: .5s ease;
+}
+
+/*!*.container:hover .overlay {*!*/
+/*!*    height: 35%;*!*/
+/*!*}*!*/
+
+/*!*.container:hover .image {*!*/
+/*!*    opacity: 0.75;*!*/
+
+/*!*}*!*/
+
+/*.text {*/
+/*    color: white;*/
+/*    font-size: 20px;*/
+/*    position: absolute;*/
+/*    top: 50%;*/
+/*    left: 50%;*/
+/*    -webkit-transform: translate(-50%, -50%);*/
+/*    -ms-transform: translate(-50%, -50%);*/
+/*    transform: translate(-50%, -50%);*/
+/*    text-align: center;*/
+/*}*/
+
+
+.project {
+    padding: 1rem;
+    text-align: center;
+
+}
+
+.project div {
+    position: relative;
+    display: inline-block;
+    /* if you need ie6/7 support */
+    *display: inline;
+    zoom: 1;
+}
+
+.project p {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    left: 0;
+    bottom: -16px;
+    height: 25%;
+    width: 100%;
+    color: #ffffff;
+    background: #000;
+    background: rgba(0, 0, 0, 0.64);
+}
+
+.project-image {
+    display: block;
+    max-width: 100%;
+    height: auto;
+
+}
+
+.icon{
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
 }
