@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.2cc6bbd1.chunk.css",
-    "main.js": "/portfolio/static/js/main.b015691d.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.b015691d.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.61fa025a.chunk.css",
+    "main.js": "/portfolio/static/js/main.8c56d617.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.8c56d617.chunk.js.map",
     "runtime~main.js": "/portfolio/static/js/runtime~main.bb9c7cad.js",
     "runtime~main.js.map": "/portfolio/static/js/runtime~main.bb9c7cad.js.map",
-    "static/css/2.90b2b645.chunk.css": "/portfolio/static/css/2.90b2b645.chunk.css",
-    "static/js/2.95e9cc52.chunk.js": "/portfolio/static/js/2.95e9cc52.chunk.js",
-    "static/js/2.95e9cc52.chunk.js.map": "/portfolio/static/js/2.95e9cc52.chunk.js.map",
+    "static/css/2.4310387e.chunk.css": "/portfolio/static/css/2.4310387e.chunk.css",
+    "static/js/2.82da39fc.chunk.js": "/portfolio/static/js/2.82da39fc.chunk.js",
+    "static/js/2.82da39fc.chunk.js.map": "/portfolio/static/js/2.82da39fc.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.628b1d4ce609405a7d667b7163dd6772.js": "/portfolio/precache-manifest.628b1d4ce609405a7d667b7163dd6772.js",
+    "precache-manifest.8cab14b782c2e494c4ac75eabb5cf1d0.js": "/portfolio/precache-manifest.8cab14b782c2e494c4ac75eabb5cf1d0.js",
     "service-worker.js": "/portfolio/service-worker.js",
-    "static/css/2.90b2b645.chunk.css.map": "/portfolio/static/css/2.90b2b645.chunk.css.map",
-    "static/css/main.2cc6bbd1.chunk.css.map": "/portfolio/static/css/main.2cc6bbd1.chunk.css.map",
+    "static/css/2.4310387e.chunk.css.map": "/portfolio/static/css/2.4310387e.chunk.css.map",
+    "static/css/main.61fa025a.chunk.css.map": "/portfolio/static/css/main.61fa025a.chunk.css.map",
     "static/media/index.css": "/portfolio/static/media/HelveticaNeueLight.212707c7.woff",
+    "static/media/Nikki Wu Resume.pdf": "/portfolio/static/media/Nikki Wu Resume.d5abf2c2.pdf",
     "static/media/home-page-image.jpg": "/portfolio/static/media/home-page-image.160e43e7.jpg"
   }
 }
