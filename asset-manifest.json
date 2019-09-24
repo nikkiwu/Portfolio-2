@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.61fa025a.chunk.css",
-    "main.js": "/portfolio/static/js/main.8c56d617.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.8c56d617.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.39b2b57d.chunk.css",
+    "main.js": "/portfolio/static/js/main.5e228736.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.5e228736.chunk.js.map",
     "runtime~main.js": "/portfolio/static/js/runtime~main.bb9c7cad.js",
     "runtime~main.js.map": "/portfolio/static/js/runtime~main.bb9c7cad.js.map",
-    "static/css/2.4310387e.chunk.css": "/portfolio/static/css/2.4310387e.chunk.css",
-    "static/js/2.82da39fc.chunk.js": "/portfolio/static/js/2.82da39fc.chunk.js",
-    "static/js/2.82da39fc.chunk.js.map": "/portfolio/static/js/2.82da39fc.chunk.js.map",
+    "static/css/2.5a60c6f9.chunk.css": "/portfolio/static/css/2.5a60c6f9.chunk.css",
+    "static/js/2.106a27d0.chunk.js": "/portfolio/static/js/2.106a27d0.chunk.js",
+    "static/js/2.106a27d0.chunk.js.map": "/portfolio/static/js/2.106a27d0.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.8cab14b782c2e494c4ac75eabb5cf1d0.js": "/portfolio/precache-manifest.8cab14b782c2e494c4ac75eabb5cf1d0.js",
+    "precache-manifest.11a598736fed6241ce0f10b7811ba6f5.js": "/portfolio/precache-manifest.11a598736fed6241ce0f10b7811ba6f5.js",
     "service-worker.js": "/portfolio/service-worker.js",
-    "static/css/2.4310387e.chunk.css.map": "/portfolio/static/css/2.4310387e.chunk.css.map",
-    "static/css/main.61fa025a.chunk.css.map": "/portfolio/static/css/main.61fa025a.chunk.css.map",
+    "static/css/2.5a60c6f9.chunk.css.map": "/portfolio/static/css/2.5a60c6f9.chunk.css.map",
+    "static/css/main.39b2b57d.chunk.css.map": "/portfolio/static/css/main.39b2b57d.chunk.css.map",
     "static/media/index.css": "/portfolio/static/media/HelveticaNeueLight.212707c7.woff",
     "static/media/Nikki Wu Resume.pdf": "/portfolio/static/media/Nikki Wu Resume.d5abf2c2.pdf",
+    "static/media/About.css": "/portfolio/static/media/bonapp.8785f5a0.png",
     "static/media/home-page-image.jpg": "/portfolio/static/media/home-page-image.160e43e7.jpg"
   }
 }
