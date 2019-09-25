@@ -52,7 +52,7 @@ class App extends React.Component {
                                                    buttonText={this.state.about.buttonText}
                                                    projectTitle={this.state.project.projectTitle}/>}/>
                         <Route path='/about' component={About}/>
-                        <Route path='/contact' exact component={Contact}/>
+                        <Route path='/contact' component={Contact}/>
                         <Route path='/project' exact component={Project}/>
                     </Switch>
                 </Container>

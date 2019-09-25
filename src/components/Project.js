@@ -1,6 +1,6 @@
 import React from 'react';
 import {Col, Container, Row} from 'react-bootstrap';
-import Image from '../assets/home-page-image.jpg'
+import Image from '../assets/images/home-page-image.jpg'
 import '../styles/Project.css'
 import {FontAwesomeIcon} from '@fortawesome/react-fontawesome';
 import {faGithub} from '@fortawesome/free-brands-svg-icons';

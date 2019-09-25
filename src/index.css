@@ -22,3 +22,15 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
+
+.success-mg {
+    color: #57A773;
+    padding: 10px 15px;
+
+}
+
+.err-mg {
+    color: #EE6352;
+    padding: 10px 15px;
+
+}
