@@ -33,6 +33,9 @@ class App extends React.Component {
             },
             project: {
                 projectTitle: `"PROJECT"`
+            },
+            contact: {
+                title: `"CONTACT"`
             }
         };
     }
@@ -52,7 +55,7 @@ class App extends React.Component {
                                                    buttonText={this.state.about.buttonText}
                                                    projectTitle={this.state.project.projectTitle}/>}/>
                         <Route path='/about' component={About}/>
-                        <Route path='/contact' component={Contact}/>
+                        <Route path='/contact' render={() => <Contact title={this.state.contact.title}/>}/>
                         <Route path='/project' exact component={Project}/>
                     </Switch>
                 </Container>
