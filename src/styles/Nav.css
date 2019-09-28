@@ -4,10 +4,10 @@
     padding: 1rem;
     font-size: 20px;
     font-weight: normal;
-    border-top: 1px solid black;
-    border-bottom: 1px solid black;
+    border-top: 1px solid #bdbdd5;
+    border-bottom: 1px solid #bdbdd5;
     text-transform: uppercase;
-    color: black;
+    color: #bdbdd5;
 }
 
 .navbar {
@@ -15,7 +15,7 @@
 }
 
 .logo:hover {
-    color: black;
+    color: #bdbdd5;
     text-decoration: none;
 }
 
@@ -26,13 +26,13 @@
     color: black;
     list-style: none;
     text-transform: uppercase;
-    border-top: 1px solid black;
-    border-bottom: 1px solid black;
+    border-top: 1px solid #bdbdd5;
+    border-bottom: 1px solid #bdbdd5;
 }
 
 
 .nav-link {
-    color: black !important;
+    color: #bdbdd5 !important;
 }
 
 

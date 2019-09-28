@@ -10,7 +10,7 @@ const Navigation = () => {
 
         <Navbar bg='transparent' expand='lg'>
             <NavbarBrand><Link className='logo' to={'/portfolio'}>Nikki Wu</Link></NavbarBrand>
-            <Navbar.Toggle className='border-0' aria-controls='navbar-toggle'/>
+            <Navbar.Toggle className='navbar-dark border-0' aria-controls='navbar-toggle'/>
             <Navbar.Collapse id='navbar-toggle'>
                 <Nav className='nav-links'>
                     <Link className='nav-link' to={'/about'}>About</Link>

@@ -7,6 +7,7 @@
 }
 
 .home-text {
+    color: #bdbdd5;
     font-family: "Helvetica Neue Light", sans-serif;
     margin: 1rem 0 0 0.7rem;
     font-weight: lighter;
@@ -16,21 +17,21 @@
 }
 
 .home-header, .aboutme-header, .project-header {
-    color: black;
+    color: #000000;
     font-family: "Helvetica Neue Bold", sans-serif;
     font-size: 2rem;
     margin-left: .7rem;
     font-weight: bolder;
     font-style: normal;
     border: none;
-    background-color: rgba(255, 102, 0, 0.63);
+    background-color: #FEF995;
 }
 
 
 hr {
     height: 0.1rem;
     border: none;
-    background-color: black;
+    background-color: #bdbdd5;
     width: 10rem;
     margin-left: .7rem;
     margin-top: 1rem;
@@ -62,7 +63,7 @@ hr {
     margin: 4rem 0 4rem 0.7rem;
     font-size: 1rem;
     font-weight: normal;
-    background: rgba(255, 0, 5, 0.71);
+    background: #cc8aff;
     transition: 500ms ease-in;
 }
 
@@ -74,7 +75,6 @@ hr {
 .about-container a, .project-container a {
     color: black;
     text-decoration: none;
-    text-transform: uppercase;
 }
 
 /*Project Home*/

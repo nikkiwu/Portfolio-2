@@ -23,7 +23,7 @@ class App extends React.Component {
         this.state = {
             home: {
                 title: `"INTRO"`,
-                nameText: 'Nikki Wu x Vancouver',
+                nameText: 'Nikki Wu',
                 jobText: 'Front End x React Native Developer',
                 locationText: 'Based in Vancouver'
             },
