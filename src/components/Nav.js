@@ -13,9 +13,9 @@ const Navigation = () => {
             <Navbar.Toggle className='navbar-dark border-0' aria-controls='navbar-toggle'/>
             <Navbar.Collapse id='navbar-toggle'>
                 <Nav className='nav-links'>
-                    <Link className='nav-link' to={'/about'}>About</Link>
-                    <Link className='nav-link' to={'/project'}>Projects</Link>
-                    <Link className='nav-link' to={'/contact'}> Contact</Link>
+                    <Link className='nav-link' to={'/about'}>"About"</Link>
+                    <Link className='nav-link' to={'/project'}>"Projects"</Link>
+                    <Link className='nav-link' to={'/contact'}>"Contact"</Link>
                 </Nav>
             </Navbar.Collapse>
         </Navbar>
